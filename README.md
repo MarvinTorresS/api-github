@@ -59,7 +59,7 @@ Asegúrate de tener instalado **Java 21** y **Maven**.
 
 bash
 # Clonar el repositorio
-git clone https://github.com/AlisonEspinoza/api-github.git
+git clone https://github.com/MarvinTorresS/api-github.git
 cd api-github
 
 # Compilar y ejecutar

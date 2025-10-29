@@ -1,4 +1,12 @@
 C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\App.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\domain\Repo.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\domain\User.java
 C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\PrimaryController.java
 C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\SecondaryController.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\service\GitHubApi.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\service\HTTPClientFactory.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\ui\MainApp.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\ui\MainController.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\util\Formatter.java
+C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\com\mycompany\api\github\util\LanguageUtils.java
 C:\Users\Alison Espinoza\Documents\NetBeansProjects\api-github\src\main\java\module-info.java

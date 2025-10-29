@@ -1,0 +1,13 @@
+com\mycompany\api\github\service\GitHubApi.class
+com\mycompany\api\github\ui\MainController.class
+com\mycompany\api\github\service\HTTPClientFactory.class
+com\mycompany\api\github\ui\MainApp.class
+com\mycompany\api\github\domain\User.class
+com\mycompany\api\github\App.class
+com\mycompany\api\github\domain\Repo.class
+module-info.class
+com\mycompany\api\github\SecondaryController.class
+com\mycompany\api\github\util\Formatter.class
+com\mycompany\api\github\service\GitHubApi$1.class
+com\mycompany\api\github\util\LanguageUtils.class
+com\mycompany\api\github\PrimaryController.class
